@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.python_packages/
+.pytest_cache/
+.ruff_cache/
+local.settings.json
+__azurite_db*
+__blobstorage__/
+__queuestorage__/
+.env

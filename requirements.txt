@@ -1,0 +1,4 @@
+azure-functions>=1.21
+azure-functions-durable>=1.2.9
+azure-identity>=1.17
+requests>=2.32

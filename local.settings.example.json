@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "POWERBI_FAKE": "1",
+    "POWERBI_FAKE_DURATION": "20",
+    "REFRESH_SCHEDULE": "0 0 6 * * *",
+    "REFRESH_PLAN": "",
+    "NOTIFY_WEBHOOK_URL": ""
+  }
+}
